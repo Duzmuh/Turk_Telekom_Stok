@@ -1,0 +1,14 @@
+c:\users\duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\bin\Debug\Turk_Telekom_Stok.exe.config
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\bin\Debug\Turk_Telekom_Stok.exe
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\bin\Debug\Turk_Telekom_Stok.pdb
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.csprojResolveAssemblyReference.cache
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.frmStokCikis.resources
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.frmAnaMenu.resources
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.Properties.Resources.resources
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.frmStokGiris.resources
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.csproj.GenerateResource.Cache
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.exe
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.pdb
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.frmHakkinda.resources
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.frmKullaniciGiris.resources
+C:\Users\Duz\documents\visual studio 2012\Projects\Turk_Telekom_Stok\Turk_Telekom_Stok\obj\Debug\Turk_Telekom_Stok.Ayarlar.resources
