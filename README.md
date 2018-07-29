@@ -1,0 +1,1 @@
+# Turk_Telekom_Stok
